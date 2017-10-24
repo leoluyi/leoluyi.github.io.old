@@ -12,7 +12,7 @@ safe: true
 
 # edit here to achieve your personal greatness
 url: http://blog.leoluyi.ml/
-# baseurl: /leoluyi/
+baseurl: /
 title: Leo Lu's BLog
 author: Leo Lu
 description: Personal blog and resume
