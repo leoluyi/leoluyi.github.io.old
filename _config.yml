@@ -5,14 +5,14 @@ rdiscount:
   extensions: [smart]
 permalink: /:title.html
 paginate: 5
-plugins: [jekyll-paginate]
+gems: [jekyll-paginate]
 port: 3000
 safe: true
 
 
 # edit here to achieve your personal greatness
 url: http://blog.leoluyi.ml/
-baseurl: /leoluyi/
+# baseurl: /leoluyi/
 title: Leo Lu's BLog
 author: Leo Lu
 description: Personal blog and resume
