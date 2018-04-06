@@ -15,7 +15,7 @@ categories:
 
 TOR 是用 `SOCKS5` proxy server，所以在 R 常見的連線 `curl` 套件 (是 `httr` 底層連線的實作)，可以用幾個方式完成：
 
-### 1. Set proxy in `curl`
+#### 1. Set proxy in `curl`
 
 在 handle 物件加入 proxy：
 
@@ -24,7 +24,7 @@ library(curl)
 h <- new_handle(proxy = "socks5://localhost:9050")
 ```
 
-### 2. Set proxy in `httr`
+#### 2. Set proxy in `httr`
 
 ```r
 library(httr)
@@ -44,7 +44,7 @@ set_config(
 reset_config()
 ```
 
-### 3. Set proxy globally (case sensitive!)
+#### 3. Set proxy globally (case sensitive!)
 
 直接修改環境變數，可在該 Session 中的連線用到：
 
