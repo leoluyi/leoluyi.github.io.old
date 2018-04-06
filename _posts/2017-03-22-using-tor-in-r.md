@@ -64,4 +64,4 @@ readLines(curl::curl("https://httpbin.org/get"))
 
 ## Reference
 
-http://stackoverflow.com/questions/17783686/solution-how-to-install-github-when-there-is-a-proxy
+<http://stackoverflow.com/questions/17783686/solution-how-to-install-github-when-there-is-a-proxy>
