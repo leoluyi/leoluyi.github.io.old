@@ -12,12 +12,12 @@ safe: true
 
 # edit here to achieve your personal greatness
 url: http://blog.leoluyi.ml/
-# baseurl: /leoluyi/
-title: Leo Lu's BLog
+baseurl: /
+title: Leo Lu's Blog
 author: Leo Lu
-description: Personal blog and resume
+description: Personal website, blog, and curriculum vitae.
 avatar: profile.png
-email: leo0650@email.com
+email: leo0650@gmail.com
 github: leoluyi # username
 twitter: leo_luyi
 linkedin: leoluyi
