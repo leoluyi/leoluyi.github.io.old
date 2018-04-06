@@ -1,7 +1,7 @@
 .highlight {
     background-color: #515151;
-    padding: 0 1.5em;
-    overflow: auto
+/*    padding: 0 1.5em;
+    overflow: auto*/
 }
 .highlight pre .hll { background-color: #515151 !important; }
 .highlight pre  { background: #2d2d2d; color: #cccccc !important; }
