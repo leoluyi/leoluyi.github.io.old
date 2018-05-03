@@ -13,7 +13,7 @@ safe: true
 
 
 # edit here to achieve your personal greatness
-url: https://blog.leoluyi.ml/
+url: https://blog.leoluyi.ml
 baseurl: /
 title: Leo Lu's Blog
 author: Leo Lu
@@ -26,7 +26,7 @@ linkedin: leoluyi
 medium: leoluyi
 # stackoverflow: username   #e.g: users/2735833/proton1h1
 #Comment out if you don't want disqus 
-disqus: leoluyi.disqus.com
+disqus: leoluyi
 google_analytics: UA-515255-3
 
 
