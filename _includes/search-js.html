@@ -3,9 +3,9 @@
 <script>
 window.simpleJekyllSearch = new SimpleJekyllSearch({
         searchInput: document.getElementById('search-input'),
-        resultsContainer: document.getElementById('results-container'),
+        resultsContainer: document.querySelector('#results-container > ul'),
         json: '{{ site.baseurl }}/search.json',
-        searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a></li>',
+        searchResultTemplate: '<a class="list-group-item list-group-item-action" href="{url}" title="{desc}">{title}</a>',
         noResultsText: 'No results found',
         limit: 10,
         fuzzy: false,
