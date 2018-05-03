@@ -32,3 +32,8 @@ medium: leoluyi
 
 # needed for travis-ci build
 exclude: [vendor]
+
+# Plugins
+plugins:
+  - jekyll-sitemap
+
