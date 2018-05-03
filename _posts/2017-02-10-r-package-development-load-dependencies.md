@@ -3,7 +3,7 @@ layout: post
 title: '[R] Package development -  load dependencies'
 date: 2017-02-10 11:59
 comments: true
-categories: 
+tags: 
 ---
 在開發 R 套件的時候，如果想要在套件的環境裡載入 dependenc 原本需要手工的方式一個個加進去。
 後來發現 roxygen2 裡面有一個 function 可以測試套件的載入：

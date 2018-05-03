@@ -3,7 +3,7 @@ layout: post
 title: 'Package Versioning'
 date: 2016-07-15 08:44
 comments: true
-categories: 
+tags: 
 ---
 The content is originated from [Xie's blog](http://yihui.name/en/2013/06/r-package-versioning/):
 

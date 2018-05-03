@@ -3,7 +3,7 @@ layout: post
 title: 'R crawler 101 學習心得 -- 爬蟲是一種基本技能'
 date: 2015-12-22 17:23
 comments: true
-categories: 
+tags: 
 ---
 <img class="center" src="https://lh3.googleusercontent.com/-G3IkbsWAr7k/Vnkfv23pn5I/AAAAAAAAFBU/-JbbCCCiw5g/s600/catchbug-6_1.png" alt="catchbug">
 

@@ -3,7 +3,7 @@ layout: post
 title: '[R] 字串操作：Regular Expression 及 stringr 套件'
 date: 2016-06-15 13:28
 comments: true
-categories: 
+tags: 
 ---
 
 ## Functions for string manipulation in base funciton and `stringr` package

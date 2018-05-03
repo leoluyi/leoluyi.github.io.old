@@ -3,7 +3,7 @@ layout: post
 title: '[Git] 中文顯示亂碼'
 date: 2017-03-22 15:41
 comments: true
-categories: 
+tags: 
 ---
 使用 `git status` 或 `git ls-files` 時，Git 在顯示中文檔名會出現類似下面的亂碼：
 

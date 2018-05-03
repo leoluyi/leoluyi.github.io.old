@@ -3,7 +3,7 @@ layout: post
 title: '[R] Using TOR in R'
 date: 2017-03-22 14:06
 comments: true
-categories: 
+tags: 
 ---
 這篇要寫得比較隱晦一些。有時候需要 TOR 來隱藏自己的 IP，然而在 R 裡面要如何辦到呢？
 
