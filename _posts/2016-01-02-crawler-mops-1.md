@@ -3,8 +3,9 @@ layout: post
 title: '[R crawler] 公開資訊觀測站 (觀察篇)'
 date: 2016-01-02 17:04
 comments: true
-tags: 
+tags: R
 ---
+
 這次要來~~攻擊~~抓取的資料是「公開資訊觀測站」的公司資料，如同[前篇文章](http://leoluyi.logdown.com/posts/2015/12/22/r-crawler-101-learning-experience-the-crawler-is-one-of-the-basic-skills)所談到的：
 
 > 「⋯⋯以前許多資料源取得的限制， 不再是個無解的難題之後，會釋放出更自由的想像空間，更大的挑戰便是整合資訊的應用，以及如何從中淘金了。」
