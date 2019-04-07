@@ -4,7 +4,7 @@
 window.simpleJekyllSearch = new SimpleJekyllSearch({
         searchInput: document.getElementById('search-input'),
         resultsContainer: document.querySelector('#results-container > ul'),
-        json: '{{ site.baseurl }}/search.json',
+        json: '{{ site.baseurl }}search.json',
         searchResultTemplate: '<a class="list-group-item list-group-item-action" href="{url}" title="{desc}">{title}</a>',
         noResultsText: 'No results found',
         limit: 10,

@@ -1,4 +1,5 @@
 # top level stuff you probably don't need to touch
+# BUILD SETTINGS
 highlighter: rouge
 markdown: kramdown
 kramdown:
@@ -7,14 +8,13 @@ rdiscount:
   extensions: [smart]
 permalink: /:title.html
 paginate: 5
-gems: [jekyll-paginate]
-port: 3000
+port: 4000
 safe: true
 
 
 # edit here to achieve your personal greatness
 url: https://leoluyi.tw
-baseurl: /
+baseurl: ""
 title: Leo Lu's Blog
 author: Leo Lu
 description: Personal website, blog, and curriculum vitae.
@@ -35,6 +35,7 @@ exclude: [vendor]
 
 # Plugins
 plugins:
+  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-seo-tag
 
